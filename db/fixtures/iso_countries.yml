@@ -639,7 +639,7 @@ netherlands:
   name: Netherlands
 
 norway:
-  code: NO
+  code: 'NO'
   name: Norway
 
 nepal:
